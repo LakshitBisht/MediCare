@@ -1,4 +1,4 @@
-# medicare
+# MediCare
 Empower medication adherence with this Flutter-based mobile app. Secure login, intuitive medication entry, and real-time notifications enhance user experience. Contribute to improved health outcomes.
 
 ## Getting Started
@@ -13,10 +13,10 @@ Have a compatible IDE installed, such as Visual Studio Code or Android Studio.
 Getting Started:
 
 Clone the repository:
-git clone https://github.com/your-username/flutter-medicine-tracker.git
+git clone https://github.com/LakshitBisht/MediCare.git
 
 Navigate to the project directory:
-cd flutter-medicine-tracker
+cd MediCare
 
 Install dependencies:
 flutter pub get
